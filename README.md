@@ -1,6 +1,5 @@
 I am a independent IOS developer working on an IOS platform for professionals such as barbers, hair dressers and nail techs. 
-If you are interested on this kind of work get in contact with me @ jeffalalg94@gmail.com
-
+If you are interested on this kind of work get in contact with me on twitter or e-mail.
 - 📫 How to reach me: jlicona.macaw@gmail.com
 
 
