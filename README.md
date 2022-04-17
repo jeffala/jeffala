@@ -1,7 +1,4 @@
+### Hi there 👋, my name is Jeff
+#### iOS development with Swift and SwiftUI 
 
-
-
-<!---
-jeffala/jeffala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Born in Honduras and now living in Florida for the last 10+ years. Passionate about iOS development and software in general, including, data structures and algorithms. I am currently working on 2 applications of my own, JANE and Macaw Pro. 
