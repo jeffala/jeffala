@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jeff
 #### iOS development with Swift and SwiftUI 
-Born in Honduras and now living in Florida for the last 10+ years. Passionate about iOS development and software in general. 
+Passionate about iOS development and software in general. 
 
 - 🔭 I’m currently working on an iOS app (Macaw Pro) and, Data Structures and Algorithms
 
