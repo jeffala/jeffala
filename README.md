@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jeff
 #### iOS development with Swift and SwiftUI 
-Passionate about iOS development and software in general. 
+
 
 - I’m currently working on Data Structures and Algorithms and, an iOS app called Macaw Pro. 
 
