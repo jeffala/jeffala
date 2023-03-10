@@ -2,7 +2,7 @@
 #### iOS development with Swift and SwiftUI 
 
 
-- I’m currently focus on Data Structures and Algorithms, and 2 iOS projects. 
+- I’m currently focus on Data Structures and Algorithms, and 3 portfolio projects. 
 - The JANE project is to showcase basic knowledge of SwiftUI.
 
 
